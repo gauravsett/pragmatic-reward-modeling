@@ -1,3 +1,8 @@
+archive/
+data/
+src/gpt-neo-x-main/
+secret.py
+websites/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
